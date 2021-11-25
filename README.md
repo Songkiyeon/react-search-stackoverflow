@@ -1,4 +1,4 @@
-# React Simple Memo
+# React Search StackOverFlow
 
 A react modal component to show some questions from stackoverflow with some title.
 
